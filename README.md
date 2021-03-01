@@ -1,6 +1,15 @@
-# bank_app
+# Flutter Bank Application
 
-A new Flutter project.
+Prototype application to demonstrate Bank Account Dashboard<br>
+[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white)](https://discord.com/invite/nWFnTqP)
+
+
+<p align="center">
+  <img src="bank_app.png" alt="flutter bank application demo" title="Screenshot">
+</p>
+
+If you like my work, support me to create more! 😎👍<br>
+<a href="https://www.buymeacoffee.com/afzalali15" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px" alt="Buy Me A Coffee"></a>
 
 ## Getting Started
 
